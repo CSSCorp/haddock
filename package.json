@@ -33,6 +33,7 @@
     , "forever": "latest"
     , "mean-logger": "latest"
     , "bower": "latest"
+    , "docker.io": "latest"
   }
   , "devDependencies": {
         "supertest": "latest"
